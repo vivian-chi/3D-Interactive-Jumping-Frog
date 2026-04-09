@@ -1,5 +1,7 @@
 # Jumping Frog — Interactive 3D Web Experience
 
+[**🚀 Live Demo**](https://vivian-chi.github.io/3D-Interactive-Jumping-Frog/)
+
 A delightful interactive 3D experience featuring a cute green frog sitting in a soft, pastel-green environment. 
 
 ## Features
