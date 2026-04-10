@@ -4,7 +4,7 @@
 
 [**🚀 Live Demo**](https://vivian-chi.github.io/3D-Interactive-Jumping-Frog/)
 
-A delightful interactive 3D experience featuring a cute green frog sitting in a soft, pastel-green environment. 
+A delightful interactive 3D experience using Three.js featuring a cute green frog sitting in a soft, pastel-green environment. 
 
 ## Features
 - **3D Interactive Frog**: A high-quality 3D model that reacts to user interaction.
